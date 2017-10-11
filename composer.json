@@ -48,5 +48,5 @@
                 "NotificationChannels\\OneSignal\\OneSignalServiceProvider"
             ]
         }
-      }
+    }
 }
